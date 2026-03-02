@@ -13,6 +13,7 @@
   <a href="https://doi.org/10.5281/zenodo.18750303"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.18750303.svg" alt="DOI"></a>
   <a href="https://pepy.tech/projects/gekolib"><img src="https://static.pepy.tech/personalized-badge/gekolib?period=total&amp;units=INTERNATIONAL_SYSTEM&amp;left_color=grey&amp;right_color=brightgreen&amp;left_text=downloads" alt="Downloads"></a>
   <a href="https://paypal.me/n4z1m"><img src="https://img.shields.io/badge/Support-PayPal-00457C.svg?logo=paypal" alt="Support via PayPal"></a>
+  <a href="https://huggingface.co/spaces/Abd0r/GEKO"><img src="https://img.shields.io/badge/🤗%20Live%20Demo-HF%20Space-FFD21E.svg" alt="HF Space"></a>
 </p>
 
 <p align="center">
