@@ -610,12 +610,4 @@ Apache 2.0
 
 ---
 
-## Support
-
-GEKO is a solo open-source project. If it's useful to you, any support goes directly toward keeping it maintained and growing.
-
-<a href="https://paypal.me/n4z1m"><img src="https://img.shields.io/badge/Support-PayPal-00457C.svg?logo=paypal" alt="Support via PayPal"></a>
-
----
-
 <p align="center"><b>GEKO</b> — Train smarter, not harder.</p>
